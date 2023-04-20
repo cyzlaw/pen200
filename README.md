@@ -2,8 +2,8 @@
 > a personal notes for my reference
 
 ### Contents
-- [Tools] (#tools)
-- [Blog] (#blog)
+- [Tools](#tools)
+- [Blog](#blog)
 
 ### Tools
 1. Reverse Shell Generator (https://www.revshells.com/)
