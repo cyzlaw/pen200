@@ -9,6 +9,8 @@
 
 ### Official Doc
 1. OSCP Exam Guide (https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)
+1. https://www.offsec.com/offsec/pen-200-2023/
+1. https://www.offsec.com/wp-content/uploads/2023/03/pen200-ebook-2023.pdf
 
 ### Tools
 
