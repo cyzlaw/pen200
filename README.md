@@ -12,9 +12,9 @@
 
 ### Tools
 
-####
 1. Reverse Shell Generator (https://www.revshells.com/)
 1. NmapAutomator (https://github.com/21y4d/nmapAutomator)
+1. AutoRecon (https://github.com/Tib3rius/AutoRecon)
 1. HackTricks (https://book.hacktricks.xyz/)
 
 ### Blog
