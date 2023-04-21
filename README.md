@@ -2,11 +2,17 @@
 > a personal notes for my reference
 
 ### Contents
+- [Official Doc](#official doc)
 - [Tools](#tools)
 - [Blog](#blog)
 - [CheatSheet](#cheatsheet)
 
+### Official Doc
+1. OSCP Exam Guide (https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)
+
 ### Tools
+
+####
 1. Reverse Shell Generator (https://www.revshells.com/)
 1. NmapAutomator (https://github.com/21y4d/nmapAutomator)
 1. HackTricks (https://book.hacktricks.xyz/)
