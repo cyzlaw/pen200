@@ -15,7 +15,7 @@
 1. Reverse Shell Generator (https://www.revshells.com/)
 1. NmapAutomator (https://github.com/21y4d/nmapAutomator)
 1. AutoRecon (https://github.com/Tib3rius/AutoRecon)
-1. HackTricks (https://book.hacktricks.xyz/)
+1. TireFire (https://github.com/CoolHandSquid/TireFire)
 
 ### Blog
 1. OSCP Reborn - 2023 Exam Preparation Guide (https://johnjhacking.com/blog/oscp-reborn-2023/)
@@ -24,6 +24,7 @@
 1. Awesome OSCP (https://github.com/0x4D31/awesome-oscp)
 
 ### CheatSheet
+1. HackTricks (https://book.hacktricks.xyz/)
 1. PayloadsAllTheThings (https://github.com/swisskyrepo/PayloadsAllTheThings)
 1. OSCP-Cheat-Sheet (https://gitlab.com/lagarian.smith/oscp-cheat-sheet/-/blob/master/OSCP_Notes.md)
 1. OSCP-2022 (https://github.com/brianlam38/OSCP-2022)
